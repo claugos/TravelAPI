@@ -1,0 +1,54 @@
+# .NET
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet Packages
+*.nuget.props
+*.lock.json
+packages/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Nn][Yy]/
+*.exe
+*.pdb
+*.dll
+*.zip
+*.log
+*.vspscc
+*.vssscc
+.build/
+
+# Visual Studio 2019
+.vs/
+*.vsconfig
+
+# Rider
+.idea/
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Resharper
+*.[Rr]e[Ss]harper
+*.resharper.user
+
+# AppSettings
+appsettings.json
+
+*.pubxml.*
+*.pubxml
