@@ -7,7 +7,7 @@ Este repositorio contiene el código fuente de un conjunto de APIs que proporcio
 ## Tecnologías Utilizadas
 
 - C# .NET 7
-- Mongo BD
+- Mongo DB
 - SendGrid
 - JWT
 
